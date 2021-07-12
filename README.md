@@ -29,7 +29,57 @@
                 style="max-width:100%;" width="26px" align="left"></a>
     </p>
 
+##     Front-End Web Development
 
+    HTML 5
+
+    CSS 3
+
+    Bootstrap 4
+
+    Javascript ES6
+
+    DOM Manipulation
+
+    jQuery
+
+    Bash Command Line
+
+    Git, GitHub and Version Control
+
+   ## Backend Web Development
+
+    Node.js
+
+    NPM
+
+    Express.js
+
+    EJS
+
+    REST
+
+    APIs
+
+    Databases
+
+    SQL
+
+    MongoDB
+
+    Mongoose
+
+    Authentication
+
+    Firebase
+
+    React.js
+
+    React Hooks
+
+    Web Design
+
+    Deployment with GitHub Pages, Heroku and MongoDB Atlas
 <!--
 **Akdex/Akdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
