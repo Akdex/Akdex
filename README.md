@@ -29,7 +29,9 @@
                 style="max-width:100%;" width="26px" align="left"></a>
     </p>
 
-##     Front-End Web Development
+<br>
+ 
+ ## Front-End Web Development
 
     HTML 5
 
