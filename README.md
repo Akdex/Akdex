@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Almost Everything
 - 🤔 I’m looking for Internship/Job
 - 📫 How to reach me: 
-[Email - Outlook](akmicrowin@outlook.com) or [WhatsApp](https://wa.me/9654752880)
+[Email](akmicrowin@outlook.com) or [WhatsApp](https://wa.me/9654752880)
 
 ### Languages & Tool
 
