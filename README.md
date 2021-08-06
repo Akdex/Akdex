@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on new projects for my portfolios
 - 🌱 I’m currently learning Almost Everything
-- 🤔 I’m looking for Internship/Job
+- 😃 I’m looking for Internship/Job
 - 📫 How to reach me: 
 [Email](akmicrowin@outlook.com) or [WhatsApp](https://wa.me/9654752880)
 
