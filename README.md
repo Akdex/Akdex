@@ -9,38 +9,46 @@
 
 ### Languages & Tool
 
+
 <a href="" rel="nofollow"><img alt="React.js"
                 src="https://reactjs.org/logo-og.png"
                 style="max-width:100%;" width="100px" align="left"></a>
   
-        <a href="https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA" rel="nofollow"><img
+       
+         
+   <a href="https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA" rel="nofollow"><img
                 alt="HTML5"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-                style="max-width:100%;" width="70px" align="left"></a>
-        <a href="https://www.youtube.com/watch?v=wTyyIGZwJg0&amp;t=2487s" rel="nofollow"><img alt="CSS3"
+                style="max-width:100%;" width="70px" align="left"> </a>
+                
+   <a href="https://www.youtube.com/watch?v=wTyyIGZwJg0&amp;t=2487s" rel="nofollow"><img alt="CSS3"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
                 style="max-width:100%;" width="70px" align="left"></a>
-        <a href="https://www.youtube.com/watch?v=wTyyIGZwJg0&amp;t=2487s" rel="nofollow"><img alt="Sass"
+                
+   <a href="https://www.youtube.com/watch?v=wTyyIGZwJg0&amp;t=2487s" rel="nofollow"><img alt="Sass"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
                 style="max-width:100%;" width="70px" align="left"></a>
-        <a href="https://www.youtube.com/watch?v=KlLdNSvmoKI&amp;list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz"
+                
+   <a href="https://www.youtube.com/watch?v=KlLdNSvmoKI&amp;list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz"
             rel="nofollow"><img alt="JavaScript"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
                 style="max-width:100%;" width="70px" align="left"></a>
-        <a href="" rel="nofollow"><img alt="Node.js"
+                
+   <a href="" rel="nofollow"><img alt="Node.js"
                 src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"
                 style="max-width:100%;" width="70px" align="left"></a>
-        <a href="" rel="nofollow"><img alt="express"
+                
+  <a href="" rel="nofollow"><img alt="express"
                 src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
                 style="max-width:100%;" width="70px" align="left"></a>
-        <a href="" rel="nofollow"><img alt="npm"
+                
+ <a href="" rel="nofollow"><img alt="npm"
                 src="https://img.icons8.com/color/452/npm.png"
                 style="max-width:100%;" width="70px" align="left"></a>
-        <a href="" rel="nofollow"><img alt="Api"
+                
+  <a href="" rel="nofollow"><img alt="Api"
                 src="https://icon-library.com/images/icon-for-api/icon-for-api-4.jpg"
                 style="max-width:100%;" width="70px" align="left"></a>
-         
-  
 
 
 
@@ -48,10 +56,7 @@
 
 <!--
 
-<a href="https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA" rel="nofollow"><img
-                alt="Visual Studio Code"
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-                style="max-width:100%;" width="70px" align="left"></a>
+
  
  ## Front-End Web Development
 
